@@ -335,3 +335,16 @@ if __name__ == "__main__":
         await dp.start_polling(bot, allowed_updates=dp.resolve_used_update_types())
 
     asyncio.run(main())
+# --- existing bot code above ---
+if __name__ == "__main__":
+    print("Bot is running...")
+
+# keep render happy
+from flask import Flask
+app = Flask(__name__)
+
+@app.route('/')
+def home():
+    return "Bot is running fine!"
+
+app.run(host="0.0.0.0", port=10000)
