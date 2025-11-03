@@ -1,0 +1,21 @@
+{
+  "level1": [
+    {"en": "Data", "ar": "بيانات"},
+    {"en": "Chart", "ar": "مخطط"},
+    {"en": "Report", "ar": "تقرير"},
+    {"en": "We analyze sales data.", "ar": "نحن نحلل بيانات المبيعات."},
+    {"en": "Customer satisfaction is important.", "ar": "رضا العملاء مهم."}
+  ],
+  "level2": [
+    {"en": "The dashboard shows monthly revenue trends.", "ar": "لوحة التحكم تظهر اتجاهات الإيرادات الشهرية."},
+    {"en": "We track KPIs to measure performance.", "ar": "نحن نتابع مؤشرات الأداء لقياس الأداء."},
+    {"en": "Data cleaning improves report accuracy.", "ar": "تنظيف البيانات يحسن دقة التقارير."},
+    {"en": "We use Excel and Power BI to analyze data.", "ar": "نستخدم Excel وPower BI لتحليل البيانات."}
+  ],
+  "level3": [
+    {"en": "Predictive models help businesses forecast demand.", "ar": "النماذج التنبؤية تساعد الشركات على توقع الطلب."},
+    {"en": "Correlation does not imply causation.", "ar": "الارتباط لا يعني السببية."},
+    {"en": "Data visualization enhances decision-making.", "ar": "تصور البيانات يعزز اتخاذ القرار."},
+    {"en": "We visualize customer segments using Power BI.", "ar": "نقوم بتصور شرائح العملاء باستخدام Power BI."}
+  ]
+}
