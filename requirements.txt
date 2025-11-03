@@ -1,0 +1,4 @@
+aiogram==3.22.0
+aiosqlite
+python-dateutil
+gTTS
